@@ -25,6 +25,7 @@ $(function() {
     // Typed Plugin
     typed = new Typed(".type", {
       strings: [
+        "Freelance Developer.",
         "Front-End Developer.",
         "Web Developer.",
         "Full-Stack Developer.",
